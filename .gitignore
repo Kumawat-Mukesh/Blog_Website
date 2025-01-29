@@ -41,7 +41,7 @@ db.sqlite3
 
 # ---- Ignore media and static files ----
 /Backend/media/
-Backend/static/
+/Backend/static/
 /staticfiles/
 /frontend/node_modules/
 /backend/staticfiles/
