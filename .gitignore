@@ -37,7 +37,7 @@ db.sqlite3
 
 # ---- Virtual Environment ----
 /venv/
-/blog_env/
+/backend/blog_venv/
 
 # ---- Ignore media and static files ----
 /media/
