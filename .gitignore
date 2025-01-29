@@ -34,8 +34,10 @@ db.sqlite3
 .env.local
 .env.development
 .env.production
+
+# ---- Virtual Environment ----
 /venv/
-/migrations/
+/blog_env/
 
 # ---- Ignore media and static files ----
 /media/
