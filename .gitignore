@@ -40,7 +40,7 @@ db.sqlite3
 /Backend/blog_venv/
 
 # ---- Ignore media and static files ----
-Backend/media/
+/Backend/media/
 Backend/static/
 /staticfiles/
 /frontend/node_modules/
